@@ -22,7 +22,7 @@
 
 ---
 
-## Overview
+## Overview hhhh
 
 The SRC Campus Portal solves three real problems at our university:
 
@@ -40,7 +40,7 @@ The voting module implements a genuine anonymity architecture: the system proves
 
 ## Features
 
-### 🗳️ Voting Module
+### Voting Module
 - Secure login via university email + OTP verification
 - Browse candidate profiles, bios, and manifestos
 - Cast anonymous ballots per position
@@ -48,14 +48,14 @@ The voting module implements a genuine anonymity architecture: the system proves
 - Live voter turnout dashboard for admin
 - Results published only after election closes
 
-### 🤝 Societies & Events Module
+### Societies & Events Module
 - Browse and follow student societies
 - Personalised events feed based on followed societies
 - RSVP to events with capacity enforcement
 - Society leaders manage their own pages and post events
 - Push/email notifications for new events
 
-### ⚙️ Admin Dashboard
+### Admin Dashboard
 - Create and configure elections (positions, dates, eligibility)
 - Approve or reject candidate registrations
 - Approve new society registrations
