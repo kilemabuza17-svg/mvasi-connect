@@ -22,7 +22,7 @@
 
 ---
 
-## Overview hhhh
+## Overview
 
 The SRC Campus Portal solves three real problems at our university:
 
