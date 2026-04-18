@@ -8,17 +8,6 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Environment Variables](#environment-variables)
-- [Database Setup](#database-setup)
-- [Running the App](#running-the-app)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Team](#team)
-- [Course Information](#course-information)
 
 ---
 
