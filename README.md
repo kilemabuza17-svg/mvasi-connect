@@ -55,7 +55,7 @@ The voting module implements a genuine anonymity architecture: the system proves
 
 ## Course Information
 
-**Course:** Practices in Software Engineering   CSC992
+**Course:** Practices in Software Engineering   CSC392
 **Institution:** University of Eswatini  
 **Year:** 2026  
 **Supervisor:** [Dr Enock Dube]
