@@ -1,66 +1,49 @@
-# SRC Campus Portal
+# Smart Attendance System
 
-> A secure, centralised web platform for student democracy and campus life — combining SRC elections, society management, and campus events into one official student hub.
+## 📌 Overview
+The Smart Attendance System is a software-hardware integrated solution designed to automate student attendance using barcode scanning technology.
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
+The system improves efficiency, accuracy, and eliminates manual attendance processes.
 
 ---
 
-## Overview
-
-The SRC Campus Portal solves three real problems at our university:
-
-- **SRC elections** are currently run via paper ballots or Google Forms — both insecure and inaccessible to off-campus students
-- **Society information** is scattered across WhatsApp groups and physical notice boards
-- **Event announcements** get lost in mass emails with no central feed
-
-This platform gives students one trusted place to vote, follow societies, and RSVP to events — all managed by the SRC from a single admin dashboard.
-
-### Key Technical Highlight — Ballot Anonymity
-
-The voting module implements a genuine anonymity architecture: the system proves a student voted *without* recording *what* they voted for. The `voter_registry` and `ballots` tables are permanently separated with no foreign key link between them — meaning no query can ever trace a ballot back to a specific student.
+## 🎯 Features
+- Barcode-based student identification
+- Lecture and test attendance tracking
+- Attendance session management
+- Real-time attendance recording
+- Attendance reports and analytics
 
 ---
 
-## Features
-
-###  Voting Module
-- Secure login via university email + OTP verification
-- Browse candidate profiles, bios, and manifestos
-- Cast anonymous ballots per position
-- One-vote-per-position enforcement with database transactions
-- Live voter turnout dashboard for admin
-- Results published only after election closes
-
-###  Societies & Events Module
-- Browse and follow student societies
-- Personalised events feed based on followed societies
-- RSVP to events with capacity enforcement
-- Society leaders manage their own pages and post events
-- Push/email notifications for new events
-
-###  Admin Dashboard
-- Create and configure elections (positions, dates, eligibility)
-- Approve or reject candidate registrations
-- Approve new society registrations
-- View real-time entry logs and generate reports
-- Manage all user roles from one panel
+## 🏗️ System Components
+- Frontend (User Interface)
+- Backend (API & Logic)
+- Database (PostgreSQL)
+- Hardware Integration (Barcode Scanner / Webcam)
 
 ---
 
-## Course Information
-
-**Course:** Practices in Software Engineering   CSC392
-**Institution:** University of Eswatini  
-**Year:** 2026  
-**Supervisor:** [Dr Enock Dube]
-
+## 👥 Team Members
+- Wakhile Mabuza – Team Manager  
+- Sean Rodrigues – System Architect  
+- Njabulo [Surname] – Designer  
+- Sakhiwo Magongo – Programmer  
 
 ---
 
-> Built as part of a Software Engineering course project. The SRC Campus Portal is designed to be practically adoptable by any university running SRC elections and managing student societies in the long term.
+## ⚙️ Technologies Used
+- React (Frontend)
+- Node.js + Express (Backend)
+- PostgreSQL (Database)
+- GitHub (Version Control)
+
+---
+
+## 📅 Project Status
+Currently in the **System Design Phase** (UML & ER Diagrams)
+
+---
+
+## 📌 Notes
+This project is part of a Software Engineering course and follows Agile development practices.
