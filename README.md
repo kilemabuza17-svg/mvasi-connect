@@ -27,7 +27,7 @@ The system improves efficiency, accuracy, and eliminates manual attendance proce
 ## 👥 Team Members
 - Wakhile Mabuza – Team Manager  
 - Sean Rodrigues – System Architect  
-- Njabulo [Surname] – Designer  
+- Njabulo Simelane – Designer  
 - Sakhiwo Magongo – Programmer  
 
 ---
